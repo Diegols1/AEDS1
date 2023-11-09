@@ -56,7 +56,7 @@ int main(){
             case 5:
                 for(int i=0; i<9; i++)
                     for(int j=i+1; i<10; j++)
-                        if(v[i]==v[3]) cout << v[i] << endl;
+                        if(v[i]==v[j]) cout << v[i] << endl;
 
         
     
