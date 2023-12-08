@@ -1,5 +1,0 @@
-#include<iostream>
-	using namespace std;
-	int main(){
-		int v[10],posmaior,posmenor,maior,menor;
-	menor=2147483647;
