@@ -1,6 +1,6 @@
 // Trabalho Final AEDS1
 // Professor: Áthila Rocha Trindade
-//Alunos: Murilo Santiago,  ,
+//Alunos: Murilo Santiago,Diego Souza Lima,
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
