@@ -2,11 +2,10 @@
 // Professor: Áthila Rocha Trindade
 //Alunos: Murilo Santiago,Diego Souza Lima,
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
+#include <cstdlib>//gerar numeros aleatorios
+#include <ctime>//Coletar o tempo do sistema
 
 using namespace std;
-
 const int tamanho = 6; 
 
 // Função para preencher a matriz com valores aleatórios (0 ou 1)
@@ -28,7 +27,6 @@ void imprimirMatriz(int matriz[][tamanho]) {
         cout << endl;
     }
 }
-
 // Função para contar o número de minas nas vizinhanças de uma posição na matriz
 int contarMinasVizinhas(int matriz[][tamanho], int row, int col) {
     int count = 0;
@@ -42,7 +40,6 @@ int contarMinasVizinhas(int matriz[][tamanho], int row, int col) {
     }
     return count;
 }
-
 int main() {
     int campoMinado[tamanho][tamanho];
 
