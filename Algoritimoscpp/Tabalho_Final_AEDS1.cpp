@@ -1,6 +1,6 @@
 // Trabalho Final AEDS1
 // Professor: Áthila Rocha Trindade
-//Alunos: Murilo Santiago,Diego Souza Lima,
+//Alunos: Murilo Santiago,Diego Souza Lima,Hendryl Figueiredo Miranda
 #include <iostream>
 #include <cstdlib>//gerar numeros aleatorios
 #include <ctime>//Coletar o tempo do sistema
